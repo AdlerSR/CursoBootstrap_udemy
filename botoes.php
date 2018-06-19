@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width-device-width, initial-scale = 1, shrink-to-fit=no">
 	<title>Botão</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
+
 <body>
-	
+
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
@@ -53,4 +55,5 @@
 	<script src="js/popper.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 </body>
+
 </html>

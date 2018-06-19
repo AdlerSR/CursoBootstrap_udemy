@@ -306,7 +306,7 @@
 					<div class="card-header">
 						Destaque
 					</div>
-					<div class="card-body">
+					<div class="card-body text-primary">
 						<h4 class="card-title">
 							Título do Cartão
 						</h4>
@@ -445,9 +445,131 @@
 				</div>
 			</div>
 		</div>
+
+		<div class="row">
+			<div class="col-12">
+				<div class="card-group">
+					<div class="card">
+					<img src="img/sol.jpg" class="card-img-top">
+					<div class="card-body">
+						<h4 class="card-title">Título do Cartão</h4>
+						<h6 class="card-subtitle mb-2 text-muted">Subtitulo do Cartão</h6>
+						<p class="card-text">Proin enim purus, tristique at laoreet ac, sodales in eros. Nunc sit amet condimentum justo, ac luctus leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer eu congue ligula.</p>
+					</div>
+					</div>
+					<div class="card">
+					<img src="img/gato.jpg" class="card-img-top">
+					<div class="card-body">
+						<h4 class="card-title">Título do Cartão</h4>
+						<h6 class="card-subtitle mb-2 text-muted">Subtitulo do Cartão</h6>
+						<p class="card-text">Proin enim purus, tristique at laoreet ac, sodales in eros. Nunc sit amet condimentum justo, ac luctus leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer eu congue ligula.</p>
+					</div>
+					</div>
+					<div class="card">
+					<img src="img/espaco.jpg" class="card-img-top">
+					<div class="card-body">
+						<h4 class="card-title">Título do Cartão</h4>
+						<h6 class="card-subtitle mb-2 text-muted">Subtitulo do Cartão</h6>
+						<p class="card-text">Proin enim purus, tristique at laoreet ac, sodales in eros. Nunc sit amet condimentum justo, ac luctus leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer eu congue ligula.</p>
+					</div>
+				</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-12">
+				<div class="card-deck">
+					<div class="card">
+					<img src="img/sol.jpg" class="card-img-top">
+					<div class="card-body">
+						<h4 class="card-title">Título do Cartão</h4>
+						<h6 class="card-subtitle mb-2 text-muted">Subtitulo do Cartão</h6>
+						<p class="card-text">Proin enim purus, tristique at laoreet ac, sodales in eros. Nunc sit amet condimentum justo, ac luctus leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer eu congue ligula.</p>
+					</div>
+					</div>
+					<div class="card">
+					<img src="img/gato.jpg" class="card-img-top">
+					<div class="card-body">
+						<h4 class="card-title">Título do Cartão</h4>
+						<h6 class="card-subtitle mb-2 text-muted">Subtitulo do Cartão</h6>
+						<p class="card-text">Proin enim purus, tristique at laoreet ac, sodales in eros. Nunc sit amet condimentum justo, ac luctus leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer eu congue ligula.</p>
+					</div>
+					</div>
+					<div class="card">
+					<img src="img/espaco.jpg" class="card-img-top">
+					<div class="card-body">
+						<h4 class="card-title">Título do Cartão</h4>
+						<h6 class="card-subtitle mb-2 text-muted">Subtitulo do Cartão</h6>
+						<p class="card-text">Proin enim purus, tristique at laoreet ac, sodales in eros. Nunc sit amet condimentum justo, ac luctus leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer eu congue ligula.</p>
+					</div>
+				</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-12">
+				<div class="card-columns">
+					<div class="card">
+					<img src="img/sol.jpg" class="card-img-top">
+					<div class="card-body">
+						<h4 class="card-title">Título do Cartão</h4>
+						<h6 class="card-subtitle mb-2 text-muted">Subtitulo do Cartão</h6>
+						<p class="card-text">Proin enim purus, tristique at laoreet ac, sodales in eros. Nunc sit amet condimentum justo, ac luctus leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer eu congue ligula.</p>
+					</div>
+					</div>
+					<div class="card">
+					<img src="img/gato.jpg" class="card-img-top">
+					<div class="card-body">
+						<h4 class="card-title">Título do Cartão</h4>
+						<h6 class="card-subtitle mb-2 text-muted">Subtitulo do Cartão</h6>
+						<p class="card-text">Proin enim purus, tristique at laoreet ac, sodales in eros. Nunc sit amet condimentum justo, ac luctus leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer eu congue ligula.</p>
+					</div>
+					</div>
+					<div class="card">
+					<img src="img/espaco.jpg" class="card-img-top">
+					<div class="card-body">
+						<h4 class="card-title">Título do Cartão</h4>
+						<h6 class="card-subtitle mb-2 text-muted">Subtitulo do Cartão</h6>
+						<p class="card-text">Proin enim purus, tristique at laoreet ac, sodales in eros. Nunc sit amet condimentum justo, ac luctus leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer eu congue ligula.</p>
+					</div>
+				</div>
+				<div class="card border-info">
+					<div class="card-header">
+						Destaque
+					</div>
+					<div class="card-body">
+						<h4 class="card-title">
+							Título do Cartão
+						</h4>
+						<p class="card-text">Conteúdo auxiliar do meu cartão</p>
+						<a href="#" class="btn btn-primary">Ir para algum lugar</a>
+					</div>
+					<div class="card-footer text-muted">
+						Há 2 dias
+					</div>
+				</div>
+				<div class="card border-warning">
+					<div class="card-header">
+						Destaque
+					</div>
+					<div class="card-body">
+						<h4 class="card-title">
+							Título do Cartão
+						</h4>
+						<p class="card-text">Conteúdo auxiliar do meu cartão</p>
+						<a href="#" class="btn btn-primary">Ir para algum lugar</a>
+					</div>
+					<div class="card-footer text-muted">
+						Há 2 dias
+					</div>
+				</div>
+				</div>
+			</div>
+		</div>
+
 	</div>
-
-
 	<script src="js/jquery-3.2.1.min.js"></script>
 	<script src="js/popper.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
