@@ -24,7 +24,6 @@
 				</button>
 			</div>
 		</div>
-
 		<div class="row">
 			<div class="col-12">
 				<button type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="top" data-content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis ex, vel porttitor lectus.">
