@@ -28,7 +28,7 @@
 				</div>
                 <div class="progress mb-2">
 					<div class="progress-bar w-75 bg-danger" role="progresbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-					75%
+					75%a
 					</div>
 				</div>
                 <div class="progress mb-2">
