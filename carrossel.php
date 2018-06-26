@@ -49,7 +49,7 @@
 
 			<div class="row">
 				<div class="col-12">
-					<div id="controleCarrossel2" class="carousel slide" data-ride="carousel" data-interval="5000">
+					<div id="controleCarrossel2" class="carousel slide" data-ride="carousel" data-interval="100">
 						<ol class="carousel-indicators">
 							<li data-target="#controleCarrossel2" data-slide-to="0" class="active"></li>
 							<li data-target="#controleCarrossel2" data-slide-to="1"></li>
@@ -97,7 +97,10 @@
 	<script src="js/popper.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script type="text/javascript">
-	
+		$('#controleCarrossel2').carousel({
+        interval:5000,
+        pause: "false"
+    });
 	</script>
 </body>
 </html>
